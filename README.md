@@ -12,6 +12,8 @@ A modern, professional redesign of Homza Chiropractic's website featuring:
 
 [View Live Site](https://homza-chiropractic-redesign.vercel.app)
 
+**Note:** This URL will be updated once domain changes propagate.
+
 ## Original Site
 
 - [homzachiropractic.com](http://www.homzachiropractic.com/)
