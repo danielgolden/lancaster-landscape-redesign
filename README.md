@@ -1,32 +1,31 @@
-# Lancaster Landscape Redesign
+# Homza Chiropractic Redesign
 
-A modern, elegant redesign of Lancaster Landscape's website featuring:
+A modern, professional redesign of Homza Chiropractic's website featuring:
 
-- **Photography-first design** - Full-width hero images and gallery showcasing landscape work
-- **Clean typography** - Playfair Display for headings, Inter for body text
-- **Nature-inspired palette** - Deep greens, warm earth tones
-- **Responsive layout** - Mobile-first design with smooth animations
-- **Performance optimized** - Lazy loading, efficient CSS, minimal JavaScript
+- **Clean healthcare aesthetic** - Calming teal/cyan palette, professional feel
+- **Split hero layout** - Content + real photography of the practice
+- **Trust-building design** - Credentials (Palmer), experience (30+ years), community roots
+- **Clear patient journey** - Services, Why Us, New Patient CTA, Contact
+- **Mobile-first** - Responsive design with smooth interactions
 
 ## Live Demo
 
-[View Live Site](https://lancaster-landscape-redesign.vercel.app)
+[View Live Site](https://homza-chiropractic-redesign.vercel.app)
 
 ## Original Site
 
-- [lancasterlandscape.com](https://lancasterlandscape.com/)
+- [homzachiropractic.com](http://www.homzachiropractic.com/)
 
 ## Features
 
-- Full-screen hero with parallax effect
-- Service cards with hover animations
-- Portfolio gallery with overlays
-- Testimonial section
-- Contact CTA with background image
+- Split hero with real practice photography
+- Icon-driven service cards
+- "Why Choose Us" section with 3 key differentiators
+- New patient forms download CTA
+- Clean contact section with hours
 - Smooth scroll navigation
 - Mobile-responsive menu
 - Scroll-triggered animations
-- Counter animations for statistics
 
 ## Tech Stack
 
@@ -39,7 +38,7 @@ A modern, elegant redesign of Lancaster Landscape's website featuring:
 
 ```bash
 # Clone the repo
-git clone https://github.com/danielgolden/lancaster-landscape-redesign.git
+git clone https://github.com/danielgolden/homza-chiropractic-redesign.git
 
 # Open in browser
 open index.html
@@ -48,10 +47,10 @@ open index.html
 ## Design Notes
 
 The redesign prioritizes:
-1. **Visual impact** - Photography is the hero
-2. **Readability** - Generous whitespace, clear hierarchy
-3. **Trust** - Professional presentation, testimonials prominently featured
-4. **Conversion** - Clear CTAs, contact information accessible
+1. **Trust** - Palmer credentials, 30+ years experience, community roots
+2. **Accessibility** - Walk-ins welcome, clear contact info, forms downloadable
+3. **Professionalism** - Healthcare-appropriate colors, clean typography
+4. **Conversion** - Multiple CTAs, phone number prominent, new patient path clear
 
 ## License
 
